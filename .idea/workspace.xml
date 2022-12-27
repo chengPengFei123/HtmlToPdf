@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8103720f-f46f-4e40-b290-65e67a9d6703" name="默认更改列表" comment="" />
+    <list default="true" id="8103720f-f46f-4e40-b290-65e67a9d6703" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +26,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SvnConfiguration">
@@ -36,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672126272137</updated>
-      <workItem from="1672126273383" duration="1420000" />
+      <workItem from="1672126273383" duration="1675000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1672128099190</created>
@@ -45,7 +48,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672128099190</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试提交">
+      <created>1672129681183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672129681183</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -53,17 +63,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <MESSAGE value="测试提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1672126349991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672126349991" />
-    <state x="559" y="112" key="CommitChangelistDialog2" timestamp="1672128171940">
+    <state x="559" y="112" key="CommitChangelistDialog2" timestamp="1672129679843">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="559" y="112" key="CommitChangelistDialog2/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672128171940" />
+    <state x="559" y="112" key="CommitChangelistDialog2/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672129679843" />
     <state x="184" y="92" key="DiffContextDialog" timestamp="1672126318511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -72,13 +83,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672128158921" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1672128112099">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1672129688850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672128112099" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1672126360743">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672129688850" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1672129867821">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672126360743" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672129867821" />
   </component>
 </project>
